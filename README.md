@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gaciampa/Azure%20Pipeline%20Demo/_apis/build/status/garyciampa.pipelines-java?branchName=master)](https://dev.azure.com/gaciampa/Azure%20Pipeline%20Demo/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
